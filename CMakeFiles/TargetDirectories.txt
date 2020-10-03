@@ -1,0 +1,9 @@
+/csehome/skvictoria/darknet/CMakeFiles/install.dir
+/csehome/skvictoria/darknet/CMakeFiles/list_install_components.dir
+/csehome/skvictoria/darknet/CMakeFiles/rebuild_cache.dir
+/csehome/skvictoria/darknet/CMakeFiles/edit_cache.dir
+/csehome/skvictoria/darknet/CMakeFiles/install/local.dir
+/csehome/skvictoria/darknet/CMakeFiles/darknet.dir
+/csehome/skvictoria/darknet/CMakeFiles/install/strip.dir
+/csehome/skvictoria/darknet/CMakeFiles/uselib.dir
+/csehome/skvictoria/darknet/CMakeFiles/dark.dir
